@@ -1,5 +1,5 @@
 <!-- Background Image -->
-<img src="asset/firstpic.png" alt="Background Image" style="width: 100%; height: 200px; object-fit: cover;">
+<img src="asset/firstpic.png" alt="Background Image" style="width: 100%; object-fit: cover;">
 
 # Welcome to Fahad's GitHub Profile!
 
