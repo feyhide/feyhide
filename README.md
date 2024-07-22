@@ -1,5 +1,5 @@
 <!-- Background Image -->
-<img src="assets/firstpic.png" alt="Background Image" style="width: 100%; object-fit: cover;">
+<img src="asset/firstpic.png" alt="Background Image" style="width: 100%; object-fit: cover;">
 
 <style>
   .custom-font {
