@@ -1,8 +1,8 @@
-<div style="background-image: url('assets/firstpic.png'); background-size: cover; height: 200px; display: flex; justify-content: center; align-items: center; color: white; text-shadow: 0 0 5px black;">
-  <h1>Welcome to Fahad's GitHub Profile!</h1>
-</div>
+<!-- Background Image -->
+<img src="https://raw.githubusercontent.com/feyhide/feyhide/main/assets/firstpic.png" alt="Background Image" style="width: 100%; height: 200px; object-fit: cover;">
 
-# About Me
+# Welcome to Fahad's GitHub Profile!
+
 Hi, I'm Fahad! I'm a fullstack developer with a passion for creating engaging web applications.
 
 ## Projects
