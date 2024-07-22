@@ -1,13 +1,7 @@
 <!-- Background Image -->
 <img src="asset/firstpic.png" alt="Background Image" style="width: 100%; object-fit: cover;">
 
-<style>
-  .custom-font {
-    font-family: 'Arial', sans-serif; /* Change this to your desired font */
-  }
-</style>
-
-<div class="custom-font">
+<div style="font-family: 'Arial', sans-serif">
   <h1>Welcome to Fahad's GitHub Profile!</h1>
 
   <p>Hi, I'm Fahad! I'm a fullstack developer with a passion for creating engaging web applications.</p>
